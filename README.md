@@ -8,6 +8,7 @@ Electrical & Electronics Engineering student at Istanbul University-Cerrahpaşa,
 HDL & FPGA: Verilog, Vivado Simulation & Analysis: MATLAB, Simulink, LTspice PCB Design: Altium Designer Programming: C++, Arduino
 
 📂 Featured Projects
+
 ECG Baseline Wander Removal: Removing baseline drift from ECG signals with a high-pass filter (MATLAB)
 
 📫 Contact
